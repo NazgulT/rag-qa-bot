@@ -1,4 +1,4 @@
-# RAG Document QA Bot with Gemma 3, LangChain, ChromaDB
+# RAG Document QA Bot with Gemma 3, LangChain, ChromaDB (Simple version)
 
 A Retrieval-Augmented Generation (RAG) chatbot that uses LangChain, ChromaDB, HuggingFace Gemma 3, and Gradio to answer questions about uploaded PDF documents.
 
